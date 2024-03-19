@@ -52,8 +52,10 @@ STILL WORK ON PROGRESS!
 
 <DIV>
   <H1>MY-PROJECTS(CLICK THE IMAGES TO SEE MY PROJECT WORKING MATES! </H1>
-<IMG height=200px width=200px SRC="https://cdn.freebiesupply.com/images/large/2x/blogger-logo-transparent.png">:<a href="https://todolist-5-5wad.onrender.com/">CLICK HERE TO SEE PROJECT</a>
-<IMG height=200px width=200px SRC="https://play-lh.googleusercontent.com/92xIZAW-mdwucFX1v8kyTXlLVgZfLczHv8XCVOH1tFc0M3cTRI4q9qJLUM96PqCrgWjc")
+<a href="https://todolist-5-5wad.onrender.com/"><IMG height=200px width=200px SRC="https://play-lh.googleusercontent.com/92xIZAW-mdwucFX1v8kyTXlLVgZfLczHv8XCVOH1tFc0M3cTRI4q9qJLUM96PqCrgWjc"</a>
+<IMG height=200px width=200px SRC="https://cdn.freebiesupply.com/images/large/2x/blogger-logo-transparent.png"><
+
+
 
 
 </DIV>
